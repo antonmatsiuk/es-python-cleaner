@@ -1,0 +1,8 @@
+---
+settings:
+  log-level: "INFO"
+  thread_count: 4
+  cluster: "localhost:9200"
+  index: "test-index"
+  field: "@timestamp"
+  years: 3
